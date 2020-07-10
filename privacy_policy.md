@@ -2,7 +2,7 @@
 
 
 Oleinichenko O.V.("developer") built Ad Supported apps. These 
-apps is provided by at no cost and is intended for use as is.
+apps are provided by at no cost and is intended for use as is.
 
 This privacy policy is used to inform You regarding policies with the collection, use, and 
 disclosure of Personal Information if anyone decided to use this Service.
